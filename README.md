@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Aleksandra — an MA student exploring the crossroads of **cultural data** and **AI**.  
+I’m Aleksandra. Currently a MA student exploring the crossroads of **cultural data** and **AI**.  
 Right now I’m building small, curious projects to understand how people talk, create, and react online.
 
 - 🎓 Studying: Cultural Data & AI (MA)
@@ -14,4 +14,4 @@ I like projects that start with a simple question like
 and then grow into notebooks full of messy data, visualizations, and little surprises.
 
 If you’re into cultural analytics, digital humanities, or just like poking at text data for fun,  
-feel free to reach out or peek into my repos — everything here is a work in progress on purpose. ✨
+feel free to reach out or peek into my repos. Everything here is a work in progress on purpose. ✨
