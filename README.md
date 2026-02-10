@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**aleksandra-st/aleksandra-st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Aleksandra — an MA student exploring the crossroads of **cultural data** and **AI**.  
+Right now I’m building small, curious projects to understand how people talk, create, and react online.
 
-Here are some ideas to get you started:
+- 🎓 Studying: Cultural Data & AI (MA)
+- 🐍 Tools I enjoy: Python, Jupyter, pandas, matplotlib
+- 🧠 Interests: cultural analytics, digital humanities, media ecosystems, algorithmic bias
+- 🧪 Current experiments: news attention timelines, social media discourse, tiny NLP models
+- 🌱 Learning more about: NLP, data visualization, and “explainable” AI for culture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like projects that start with a simple question like  
+> “How are people talking about this right now?”  
+and then grow into notebooks full of messy data, visualizations, and little surprises.
+
+If you’re into cultural analytics, digital humanities, or just like poking at text data for fun,  
+feel free to reach out or peek into my repos — everything here is a work in progress on purpose. ✨
